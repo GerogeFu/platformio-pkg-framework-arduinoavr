@@ -163,7 +163,6 @@ const uint16_t PROGMEM port_to_input_PGM[] = {
 	(uint16_t) &PINL,
 };
 
-// DIO 对应的PORT
 const uint8_t PROGMEM digital_pin_to_port_PGM[] = {
 	// PORTLIST		
 	// -------------------------------------------		
